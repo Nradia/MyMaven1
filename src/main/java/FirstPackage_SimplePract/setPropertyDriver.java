@@ -12,8 +12,8 @@ public class setPropertyDriver {
 
 	public static void main(String[] args) throws InterruptedException {
 	
-		
-		
+	// JUST CHECKIN THE UPDATE HAVE BEEN PUSHED SUUCESSFULU	
+	//*************************************************************	
 	//System.setProperty("webdriver.gecko.driver","C:\\Users\\radia\\git\\repositoryRad\\Automation\\Drivers\\geckodriver.exe");
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\radia\\git\\repositoryRad\\Automation\\Drivers\\chromedriver.exe");	
 		
